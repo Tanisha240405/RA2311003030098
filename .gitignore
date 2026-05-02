@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+*.log
+postman_guide.md
+package.json
+package-lock.json
