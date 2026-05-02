@@ -9,7 +9,7 @@ It pulls available mechanics' budgets from the `/depots` API and pending vehicle
 
 *(Note: The terminal output and Postman screenshots proving the algorithm works are saved in the `postman_screenshots` and `vehicle_scheduling` folders).*
 
-## 3. Notification System (`/notification_app_be`)
+### 3. Notification System (`/notification_app_be`)
 
 A microservice for reliable notification delivery across multiple channels (Email, SMS, Push) while respecting user preferences.
 
